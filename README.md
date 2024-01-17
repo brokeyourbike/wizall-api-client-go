@@ -1,4 +1,10 @@
 # wizall-api-client-go
+
+[![Go Reference](https://pkg.go.dev/badge/github.com/brokeyourbike/wizall-api-client-go.svg)](https://pkg.go.dev/github.com/brokeyourbike/wizall-api-client-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/brokeyourbike/wizall-api-client-go)](https://goreportcard.com/report/github.com/brokeyourbike/wizall-api-client-go)
+[![Maintainability](https://api.codeclimate.com/v1/badges/fc5997f243509e067be5/maintainability)](https://codeclimate.com/github/brokeyourbike/wizall-api-client-go/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/fc5997f243509e067be5/test_coverage)](https://codeclimate.com/github/brokeyourbike/wizall-api-client-go/test_coverage)
+
 Wizall API client for Go
 
 ## Installation
