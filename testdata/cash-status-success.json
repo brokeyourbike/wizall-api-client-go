@@ -1,0 +1,18 @@
+{
+    "Operation": "Check_status_bon_cash",
+    "transactionid": "12345",
+    "SenderPhone": "777111111",
+    "Amount": "100.000000",
+    "ReedemWalletType": "",
+    "ReedemTransactionID": "",
+    "ReedemPhone": "",
+    "ReceiverPhone": "777222222",
+    "TokenStatus": "Initiated",
+    "ReedemTime": "",
+    "code": "200",
+    "details": {
+        "message": "Transaction Réussie",
+        "service": "customer-checkBonCash-status",
+        "rid": "CK123"
+    }
+}

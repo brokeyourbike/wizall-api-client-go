@@ -1,0 +1,8 @@
+{
+    "transactionid": "12345",
+    "timestamp": "2020-05-08T14:11:41",
+    "commission": "0.0",
+    "fees": "25",
+    "amount": 100,
+    "Operation": "Cashin"
+}

@@ -1,0 +1,20 @@
+{
+    "Operation": "PickUpCode",
+    "id": 12345,
+    "code": "200",
+    "status": "valid",
+    "value": "100.0",
+    "currency_code": 952,
+    "paid_value": 100,
+    "paid_value_currency_code": 952,
+    "is_cash": 0,
+    "fee": "0",
+    "commission": "0.0",
+    "timestamp": "2024-01-17T22:18:34",
+    "solde": 1026021,
+    "details": {
+        "message": "PickUpCode successful",
+        "service": "customer-sell-good-voucher",
+        "rid": "AJ123"
+    }
+}

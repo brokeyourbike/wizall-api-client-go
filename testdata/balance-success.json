@@ -1,0 +1,11 @@
+{
+    "code": "200",
+    "RequestID": "12345",
+    "Operation": "Agent Balance",
+    "solde": 7050,
+    "details": {
+        "message": "BalanceAgent",
+        "service": "agent-balance",
+        "rid": "JA123"
+    }
+}

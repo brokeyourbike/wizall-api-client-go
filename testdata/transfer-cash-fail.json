@@ -1,0 +1,11 @@
+{
+    "code": "WZ0001",
+    "error": "this transaction already exist",
+    "external_trx_id": "TRX12345",
+    "trans_id": "12345",
+    "details": {
+        "message": null,
+        "service": "customer-sell-good-voucher",
+        "rid": "GC123"
+    }
+}
